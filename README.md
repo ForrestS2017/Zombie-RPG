@@ -1,5 +1,6 @@
 # Zombie Game
 *Zombie RPG style shooter built in Unity in order to solidify core game development skills, concepts, and philosophies*
+*Using royalty free 3D Assets in order to focus on programming*
 
 ## Core Concepts
 * AI-based NPCs (non-playable characters)
